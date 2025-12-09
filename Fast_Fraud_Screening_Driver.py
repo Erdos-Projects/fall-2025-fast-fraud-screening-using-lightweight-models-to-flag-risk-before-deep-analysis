@@ -62,7 +62,7 @@ def main():
     """
 
     notebooks = [
-   "/Model.ipynb",
+   "/Fast_Fraud_Screening_Model.ipynb",
    "/Fast_Fraud_Screening_Business_KPIs.ipynb",
    "/Fast_Fraud_Screening_Report_Visualisations.ipynb"
 ]
